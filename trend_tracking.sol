@@ -70,4 +70,3 @@ contract MusicNFT is ERC721, IERC2981 {
         maxStreamCount = _maxStreamCount;
     }
 }
-
